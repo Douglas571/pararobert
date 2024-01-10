@@ -1,3 +1,11 @@
+/*
+
+Jorge Maldonado C.I: 29.641.202
+Douglas Socorro   C.I: 29.748.656
+Benjamín Alastre   C.I: 29.712.778
+
+*/
+
 // 1. Agregar 10 series.
 db.Series.drop();
 db.Series.insertMany([

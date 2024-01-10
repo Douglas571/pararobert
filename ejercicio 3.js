@@ -1,3 +1,11 @@
+/*
+
+Jorge Maldonado C.I: 29.641.202
+Douglas Socorro   C.I: 29.748.656
+Benjamín Alastre   C.I: 29.712.778
+
+*/
+
 // 1. Anexar 5 planes brindados por la compañía.
 db.Planes.drop();
 db.Planes.insertMany([
